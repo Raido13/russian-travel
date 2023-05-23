@@ -1,0 +1,12 @@
+.intro {
+    padding-top: 92px;
+    display: grid;
+    grid-template-columns: 690px calc(984px - 690px);
+    justify-content: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        grid-template-columns: 690px calc(928px - 690px);
+    }
+}

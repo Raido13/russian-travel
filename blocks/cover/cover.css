@@ -1,0 +1,7 @@
+.cover {
+    padding-top: 92px;
+    position: relative;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}

@@ -1,0 +1,6 @@
+.lead {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 56px;
+}

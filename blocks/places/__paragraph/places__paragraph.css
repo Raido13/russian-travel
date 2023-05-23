@@ -1,0 +1,11 @@
+.places__paragraph {
+    max-width: 484px;
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: normal;
+    margin: 0;
+}
+
+.places__paragraph:nth-child(even) {
+    margin-top: 26px;
+}

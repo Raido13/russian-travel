@@ -1,8 +1,7 @@
 .root {
-    padding-top: 28px;
-    display: grid;
-    justify-content: center;
     background-color: #2A2C2F;
     font-family: 'Inter', 'Arial', sans-serif;
     color: #fff;
+    display: grid;
+    justify-content: center;
 }

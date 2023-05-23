@@ -1,3 +1,8 @@
-.footer__links {
-    
+@media screen and (max-width: 320px) {
+    .footer__links {
+        grid-row: 1;
+        grid-column: 2;
+        display: grid;
+        row-gap: 32px;
+    }
 }

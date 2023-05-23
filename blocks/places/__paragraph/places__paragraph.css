@@ -6,6 +6,18 @@
     margin: 0;
 }
 
-.places__paragraph:nth-child(even) {
+.places__paragraph:nth-child(2) {
     margin-top: 26px;
+}
+
+@media screen and (max-width: 768px) {
+    .places__paragraph {
+        max-width: 352px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    
+    .places__paragraph:nth-child(2) {
+        margin-top: 25px;
+    }
 }

@@ -1,12 +1,11 @@
-.lead {
+.page {
+    padding-top: 28px;
     display: grid;
     justify-content: center;
-    justify-items: center;
-    padding-top: 56px;
 }
 
 @media screen and (max-width: 320px) {
-    .lead {
-        padding-top: 48px;
+    .page {
+        padding-top: 16px;
     }
 }

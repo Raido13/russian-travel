@@ -1,7 +1,31 @@
 .footer {
-    max-width: 1184px;
+    width: 1184px;
     padding: 92px 0 24px;
     display: grid;
-    grid-template-columns: repeat(2, 50%);
+    grid-template-columns: 75% 25%;
     align-items: center;
+    justify-self: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer {
+        width: 928px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        width: 720px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .footer {
+        padding-top: 64px;
+        width: 186px;
+        grid-template-columns: none;
+        justify-self: start;
+        grid-template-columns: calc((320px - 288px)/2) 186px calc(288px - 186px) calc((320px - 288px)/2);
+        row-gap: 48px;
+    }
 }

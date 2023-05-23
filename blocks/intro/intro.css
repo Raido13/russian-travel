@@ -10,3 +10,16 @@
         grid-template-columns: 690px calc(928px - 690px);
     }
 }
+
+@media screen and (max-width: 768px) {
+    .intro {
+        grid-template-columns: 720px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .intro {
+        padding-top: 64px;
+        grid-template-columns: 288px;
+    }
+}

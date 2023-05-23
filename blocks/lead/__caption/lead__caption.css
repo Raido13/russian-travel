@@ -5,4 +5,21 @@
     text-transform: uppercase;
     justify-self: start;
     margin: 8px 0 0;
+    letter-spacing: 1.5px;
+}
+
+@media screen and (max-width: 768px) {
+    .lead__caption {
+        display: grid;
+        grid-template-columns: 160px calc(720px - 160px);
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__caption {
+        display: grid;
+        grid-template-columns: 160px calc(288px - 160px);
+        justify-self: center;
+    }
 }

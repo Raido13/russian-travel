@@ -1,27 +1,6 @@
 .cover__background {
-    width: 1184px;
-    height: 740px;
+    width: 100%;
+    max-width: 1184px;
     grid-area: 1/-1/1/-1;
     z-index: 1;
-}
-
-@media screen and (max-width: 1024px) {
-    .cover__background {
-        width: 1024px;
-        height: 640px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .cover__background {
-        width: 768px;
-        height: 480px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .cover__background {
-        width: 320px;
-        height: 200px;
-    }
 }

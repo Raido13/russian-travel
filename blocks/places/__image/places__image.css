@@ -1,25 +1,13 @@
 .places__image {
-    height: 460px;
+    width: 100%;
+    object-fit: cover;
     grid-row: 2;
+    grid-column: 1;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 450px) {
     .places__image {
-        max-height: 440px;
-    }    
-}
-
-@media screen and (max-width: 768px) {
-    .places__image {
-        height: 340px;
-    }    
-}
-
-@media screen and (max-width: 320px) {
-    .places__image {
-        width: 320px;
-        height: 320px;
-        grid-row: 3;
         grid-column: span 3;
+        grid-row: 3;
     }    
 }

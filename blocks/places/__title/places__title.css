@@ -3,6 +3,7 @@
     line-height: 76px;
     font-weight: 900;
     margin: 0;
+    grid-column: 1;
 }
 
 @media screen and (max-width: 768px) {
@@ -12,11 +13,16 @@
     }
 }
 
+@media screen and (max-width: 450px) {
+    .places__title {
+        grid-row: 1;
+        grid-column: 2;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .places__title {
         font-size: 32px;
         line-height: 35px;
-        grid-row: 1;
-        grid-column: 2;
     }
 }

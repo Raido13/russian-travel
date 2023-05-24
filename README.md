@@ -1,4 +1,4 @@
-<h1 align="center">Second project Russian travel</h1>
+<h1 align="center">Second project "Russian travel"</h1>
 <h3 align="center">Adaptive layout</h3>
 
 - 🔭 Project for courses "Web-developer PLUS" from YP. [https://github.com/Raido13/russian-travel](https://github.com/Raido13/russian-travel)

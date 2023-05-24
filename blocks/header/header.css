@@ -1,25 +1,21 @@
 .header {
-    width: 1184px;
+    width: calc(100vw - (48px*2));
+    max-width: 1184px;
+    min-width: 288px;
     display: grid;
-    grid-template-columns: 75% 25%;
+    grid-template-columns: 176px calc(100% - 176px);
     align-items: center;
     justify-self: center;
 }
 
-@media screen and (max-width: 1024px) {
-    .header {
-        width: 928px;
-    }
-}
-
 @media screen and (max-width: 768px) {
     .header {
-        width: 720px;
+        width: calc(100vw - (24px*2));
     }
 }
 
 @media screen and (max-width: 320px) {
     .header {
-        width: 288px;
+        width: calc(100vw - (16px*2));
     }
 }

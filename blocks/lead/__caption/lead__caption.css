@@ -1,7 +1,7 @@
 .lead__caption {
     font-size: 10px;
     line-height: 14px;
-    font-weight: normal;
+    font-weight: 400;
     text-transform: uppercase;
     justify-self: start;
     margin: 8px 0 0;
@@ -11,7 +11,7 @@
 @media screen and (max-width: 768px) {
     .lead__caption {
         display: grid;
-        grid-template-columns: 160px calc(720px - 160px);
+        grid-template-columns: 160px calc(100vw - 208px);
         justify-self: center;
     }
 }
@@ -19,7 +19,7 @@
 @media screen and (max-width: 320px) {
     .lead__caption {
         display: grid;
-        grid-template-columns: 160px calc(288px - 160px);
+        grid-template-columns: 160px calc(100vw - 192px);
         justify-self: center;
     }
 }

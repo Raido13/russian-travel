@@ -1,4 +1,5 @@
 .places__website {
+    min-width: 144px;
     align-self: end;
 }
 

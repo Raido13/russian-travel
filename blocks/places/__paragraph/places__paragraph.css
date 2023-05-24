@@ -2,12 +2,18 @@
     max-width: 484px;
     font-size: 18px;
     line-height: 29px;
-    font-weight: normal;
+    font-weight: 400;
     margin: 0;
 }
 
 .places__paragraph:nth-child(2) {
     margin-top: 26px;
+}
+
+@media screen and (max-width: 1024px) {
+    .places__paragraph {
+        max-width: 452px;
+    }
 }
 
 @media screen and (max-width: 768px) {

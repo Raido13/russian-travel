@@ -13,7 +13,7 @@
 
 @media screen and (max-width: 768px) {
     .places__image {
-        max-width: 340px;
+        max-width: 320px;
     }
 }
 
@@ -24,9 +24,8 @@
     }    
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 320px) {
     .places__image {
-        max-width: 320px;
         grid-column: span 3;
         grid-row: 3;
     }    

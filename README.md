@@ -1,23 +1,15 @@
-# Проект: Путешествие по России
+<h1 align="center">Second project Russian travel</h1>
+<h3 align="center">Adaptive layout</h3>
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+- 🔭 Project for courses "Web-developer PLUS" from YP. [https://github.com/Raido13/russian-travel](https://github.com/Raido13/russian-travel)
 
-**Интро**
+- 👨‍💻 All of my projects are available at [https://github.com/Raido13/](https://github.com/Raido13/)
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+- 📫 How to reach me **andreyonohin88@gmail.com**
 
-**Figma**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+<h3 align="left">Языки и инструменты:</h3>
+<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></p>

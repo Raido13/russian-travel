@@ -1,7 +1,7 @@
 <h1 align="center">Second project "Russian travel"</h1>
 <h3 align="center">Adaptive layout</h3>
 
-- 🔭 Project for courses "Web-developer PLUS" from Yandex Practicum [https://github.com/Raido13/russian-travel](https://github.com/Raido13/russian-travel)
+- 🔭 Project for courses "Web-developer PLUS" from Yandex Practicum [https://raido13.github.io/](https://raido13.github.io/)
 
 - 👨‍💻 My other projects here [https://github.com/Raido13/](https://github.com/Raido13/)
 

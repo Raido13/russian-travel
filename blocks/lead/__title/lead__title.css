@@ -5,11 +5,17 @@
     text-align: center;
     max-width: 720px;
     margin: 0 0 32px;
+    word-wrap: break-word;
+}
+
+@media screen and (max-width: 768px) {
+    .lead__title {
+        max-width: 100vw;
+    }
 }
 
 @media screen and (max-width: 320px) {
     .lead__title {
-        max-width: 288px;
         font-size: 40px;
         line-height: 44px;
         margin-bottom: 16px;

@@ -24,7 +24,7 @@
     }    
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 360px) {
     .places__image {
         grid-column: span 3;
         grid-row: 3;

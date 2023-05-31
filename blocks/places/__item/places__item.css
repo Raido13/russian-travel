@@ -13,14 +13,14 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 928px) {
     .places__item {
         max-width: 720px;
         column-gap: 28px;
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 720px) {
     .places__item {
         grid-template-columns: calc((320px - 288px)/2) minmax(min-content, max-content) calc((320px - 288px)/2);
         gap: 32px 0;

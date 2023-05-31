@@ -1,6 +1,4 @@
 .cover__background {
     width: 100%;
-    max-width: 1184px;
     grid-area: 1/-1/1/-1;
-    z-index: 1;
 }

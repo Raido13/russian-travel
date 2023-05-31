@@ -16,6 +16,7 @@
 
 @media screen and (max-width: 320px) {
     .header {
+        grid-template-columns: 142px calc(100% - 142px);
         width: calc(100vw - (16px*2));
     }
 }
